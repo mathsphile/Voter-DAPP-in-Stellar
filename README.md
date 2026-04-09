@@ -15,6 +15,8 @@ The goal of this project is to demonstrate how blockchain technology can be used
 - Stores all voting data securely on-chain
 
 ---
+## Deployed Smart Contract link
+- CB24NBTUNCLKFCW6L2J7KEB25KUTLQKPNWF4K4N4YCUJ3RIPAMYPXPNS
 ![WhatsApp Image 2026-04-09 at 2 28 43 PM](https://github.com/user-attachments/assets/bbd0ccea-6fed-4392-b9f0-761c38955744)
 
 ## ✨ Features
